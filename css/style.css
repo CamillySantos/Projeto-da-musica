@@ -1,0 +1,307 @@
+/*Padrões*/
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    margin: 0px 60px ;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+.menu {
+    list-style-type: none;
+    padding: 10px 30px;
+    font-size: 20px;
+    border-bottom: 2px solid #fff;
+    margin: 10px 30px;
+}
+
+/*headers*/
+
+.destaque {
+    background-color: #301961;
+    padding: 50px;
+    margin: 20px;
+
+    text-align: left;
+}
+/*footer*/
+
+#footer {
+    padding-left: 30px;
+}
+
+#titulo {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: row;
+}
+
+/*Primeira página*/
+
+
+#proposta1 {
+    padding: 30px;
+    font-size: 40px;
+}
+
+#definicao1 {
+    font-size: 20px;
+    padding: 25px;
+}
+
+.viagem {
+    text-align: center;
+    padding: 40px;
+    margin: 20px;
+}
+
+.definicao {
+    font-size: 20px;
+}
+
+.meme {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+}
+
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.tema {
+    text-align: center;
+    margin: 20px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    border-bottom: 2px solid #fff;
+}
+
+.footer {
+    text-align: left;
+    margin: 10px;
+    font-size: 18px;
+}
+
+/*Playlist*/
+
+.destaque {
+    background-color: #301961;
+    padding: 50px;
+    margin: 20px;
+}
+
+#proposta2 {
+    font-size: 40px;
+    padding: 30px;
+}
+
+#definicao2 {
+    font-size: 20px;
+    padding: 30px;
+}
+
+.pagina2 {
+    margin: 20px;
+    padding: 30px;
+    border: 2px solid #fff;
+    padding-left: 50px;
+}
+
+.perguntas {
+    padding: 30px;
+    padding-bottom: 10px;
+}
+
+.nome-musica {
+    padding-left: 30px;
+    font-size: 20px;
+}
+
+.playlist {
+    padding-left: 20px;
+}
+
+/*Future*/
+
+#proposta3 {
+    font-size: 40px;
+    padding: 30px;
+}
+
+#definicao3 {
+    font-size: 20px;
+    padding: 30px;
+}
+
+#box {
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+}
+
+.foto {
+    width: 300px;
+}
+
+.audio-futuro {
+    margin: 30px;
+    padding: 30px;
+    border: 2px solid #fff;
+    width: 300px;
+}
+
+.artista {
+    font-size: 20px;
+}
+
+
+/*Dinners*/
+
+#proposta4 {
+    font-size: 40px;
+    padding: 30px;
+}
+
+#definicao4 {
+    font-size: 20px;
+    padding: 30px;
+}
+
+.nome {
+    font-size: 30px;
+    margin: 20px;
+    padding: 40px 40px 0px 40px;
+    text-align: center;
+}
+
+.frame {
+    margin: 50px;
+}
+
+.prato {
+    font-size: 30px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.comida {
+    width: 500px;
+}
+
+.image {
+    margin: 0px 400px;
+}
+
+.descricao {
+    margin: 40px;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.passo {
+    margin: 20px;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.subtitulo {
+    margin: 20px;
+    padding: 30px;
+    font-size: 20px;
+}
+
+/*Curiosities*/
+
+#proposta5 {
+    font-size: 40px;
+    padding: 30px;
+}
+
+#definicao5 {
+    font-size: 20px;
+    padding: 30px;
+}
+
+#curio {
+    margin: 50px;
+}
+
+.curio {
+    padding: 30px;
+    margin: 20px;
+    border: 2px solid #fff;
+}
+
+.questoes {
+    font-size: 30px;
+}
+
+.resposta {
+    font-size: 20px;
+}
+
+.musica {
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.mamis {
+    width: 500px;
+    margin-top: 20px;
+}
+
+/*Divertidamentes*/
+
+#proposta6 {
+    font-size: 40px;
+    padding: 30px;
+}
+
+#definicao6 {
+    font-size: 20px;
+    padding: 30px;
+}
+
+#diver {
+    margin: 30px;
+}
+
+.music {
+    border: 2px solid #fff;
+    width: auto;
+    text-align: center;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.emocao {
+    font-size: 30px;
+    padding: 20px;
+    margin: 10px;
+}
+
+.titulo {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.diver {
+    margin: 10px;
+    padding: 10px 50px;
+}
+
+
+
